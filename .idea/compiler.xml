@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AtmManagementSys" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AtmManagementSys" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AtmManagementSys" options="-bootclasspath C:\Users\ibrahim.kandil\.jdks\corretto-1.8.0_402\jre\lib\resources.jar;C:\Users\ibrahim.kandil\.jdks\corretto-1.8.0_402\jre\lib\rt.jar;C:\Users\ibrahim.kandil\.jdks\corretto-1.8.0_402\jre\lib\sunrsasign.jar;C:\Users\ibrahim.kandil\.jdks\corretto-1.8.0_402\jre\lib\jsse.jar;C:\Users\ibrahim.kandil\.jdks\corretto-1.8.0_402\jre\lib\jce.jar;C:\Users\ibrahim.kandil\.jdks\corretto-1.8.0_402\jre\lib\charsets.jar;C:\Users\ibrahim.kandil\.jdks\corretto-1.8.0_402\jre\lib\jfr.jar;C:\Users\ibrahim.kandil\.jdks\corretto-1.8.0_402\jre\classes;$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/jfxrt.jar" />
+    </option>
+  </component>
+</project>
